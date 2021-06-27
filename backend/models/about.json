@@ -1,0 +1,31 @@
+{
+    "title": "ABOUT",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+    "lastword" : "Be Part of Our Story",
+    "lists" : [
+        {
+            "id":"1", 
+            "title":"ABOUT 1",
+            "image": "static/public/img/about/1.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"2", 
+            "title":"ABOUT 2",
+            "image": "static/public/img/about/2.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"3", 
+            "title":"ABOUT 3",
+            "image": "static/public/img/about/3.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"4", 
+            "title":"ABOUT 4",
+            "image": "static/public/img/about/4.jpg",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        }
+    ]
+}

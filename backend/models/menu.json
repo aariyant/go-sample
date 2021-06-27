@@ -1,0 +1,7 @@
+[
+        { "id": "service","title": "SERVICES", "href":"/services"},
+        {"id":"portfolio", "title":"PORTFOLIO","href":"/portfolio"},
+        {"id":"about", "title":"ABOUT", "href":"/about"},
+        {"id":"team", "title":"TEAM","href":"/team"},
+        {"id":"contact", "title":"CONTACT","href":"/contact"}
+]

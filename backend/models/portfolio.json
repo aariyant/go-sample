@@ -1,0 +1,67 @@
+{
+    "title": "PORTFOLIO",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+    "lists": [
+        {
+            "id": "1",
+            "title": "Portfolio 1",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/01-thumbnail.jpg",
+            "image": "static/public/img/portfolio/01-full.jpg",
+            "href": "#portfolioModal1",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        },
+        {
+            "id": "2",
+            "title": "Portfolio 2",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/02-thumbnail.jpg",
+            "image": "static/public/img/portfolio/02-full.jpg",
+            "href": "#portfolioModal2",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        },
+        {
+            "id": "3",
+            "title": "Portfolio 3",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/03-thumbnail.jpg",
+            "image": "static/public/img/portfolio/03-full.jpg",
+            "href": "#portfolioModal3",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        },
+        {
+            "id": "4",
+            "title": "Portfolio 4",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/04-thumbnail.jpg",
+            "image": "static/public/img/portfolio/04-full.jpg",
+            "href": "#portfolioModal4",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        },
+        {
+            "id": "5",
+            "title": "Portfolio 5",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/05-thumbnail.jpg",
+            "image": "static/public/img/portfolio/05-full.jpg",
+            "href": "#portfolioModal5",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        },
+        {
+            "id": "6",
+            "title": "Portfolio 6",
+            "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+            "thumbnail": "static/public/img/portfolio/06-thumbnail.jpg",
+            "image": "static/public/img/portfolio/06-full.jpg",
+            "href": "#portfolioModal6",
+            "content" :"Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!"
+             
+        }
+        
+    ]
+}

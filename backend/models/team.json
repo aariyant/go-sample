@@ -1,0 +1,25 @@
+{
+    "title": "OUR AMAZING TEAM",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+    "lastword" : "Think it! Build it! Ship it!",
+    "lists" : [
+        {
+            "id":"1", 
+            "name":"Team 1",
+            "title": "Title 1",
+            "image":"static/public/img/team/1.jpg" 
+        },
+        {
+            "id":"2", 
+            "name":"Ariyanto",
+            "title": "title 2",
+            "image":"static/public/img/team/2.jpg" 
+        },
+        {
+            "id":"3", 
+            "name":"Team 3",
+            "title": "title 3",
+            "image":"static/public/img/team/3.jpg" 
+        }
+    ]
+}

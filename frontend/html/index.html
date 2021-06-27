@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- head html here-->
+{{ render "head.html"}}
+
+<body id="page-top">
+ 
+  <!-- Navigation -->
+  {{ render "navigation.html"}}
+
+  {{ yield }}
+
+  <!-- Footer -->
+  {{ render "footer.html"}}
+
+  <!-- Portfolio Modals -->
+  {{ render "modal_portfolio.html"}}
+  <!--modal project here-->
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="static/public/vendor/jquery/jquery.min.js"></script>
+  <script src="static/public/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="static/public/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Contact form JavaScript -->
+  <script src="static/public/js/jqBootstrapValidation.js"></script>
+  <script src="static/public/js/contact_me.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="static/public/js/agency.min.js"></script>
+
+</body>
+
+</html>

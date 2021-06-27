@@ -1,0 +1,20 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/rewrite-target: /$1
+  labels: 
+    app: sample-backendd
+  name: sample-backendd
+  namespace: default
+spec:
+  rules:
+  - host: local.example.com
+    http:
+      paths:
+      - backend:
+          serviceName: sample-backendd
+          servicePort: 80
+        path: /poc-backend/?(.*)
+

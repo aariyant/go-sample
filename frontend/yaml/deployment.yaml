@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sample-frontend
+  labels:
+    app: sample-frontend
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sample-frontend
+  strategy:
+    type: Recreate
+  template:
+    metadata:
+      labels:
+        app: sample-frontend
+        version: v1.0.0
+      annotations:
+        prometheus.io/scrape: "true"
+    spec:
+      containers:
+      - name: sample-frontend
+        image: ariyant/sample-frontend:1.0.0
+        imagePullPolicy: Always
+        ports:
+        - name: http
+          containerPort: 8080
+        env:
+        - name: VERSION
+          value: v1.0.0
+        - name: URL
+          value: http://sample-backendd

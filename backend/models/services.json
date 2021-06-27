@@ -1,0 +1,37 @@
+{
+    "title": "SERVICES",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur.",
+    "lastword" : "Be Part of Our Story",
+    "lists" : [
+        {
+            "id":"1", 
+            "title":"SERVICES 1",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"2", 
+            "title":"SERVICES 2",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"3", 
+            "title":"SERVICES 3",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"4", 
+            "title":"SERVICES 4",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"5", 
+            "title":"SERVICES 5",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        },
+        {
+            "id":"6", 
+            "title":"SERVICES 6",
+            "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!" 
+        }
+    ]
+}
